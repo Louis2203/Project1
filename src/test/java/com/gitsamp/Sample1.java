@@ -2,14 +2,12 @@ package com.gitsamp;
 
 public class Sample1 {
 	private void m1() {
-		// TODO Auto-generated method stub
 
+	System.out.println("Mustafa");
 	}
 	private void m2() {
-		// TODO Auto-generated method stub
-
+System.out.println("Louis");
 	}private void m3() {
-		// TODO Auto-generated method stub
-
+System.out.println("Mani");
 	}
 }
